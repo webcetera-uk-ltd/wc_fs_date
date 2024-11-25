@@ -1,6 +1,6 @@
 {
   "name": "@webceterauk/wc-fs-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get todays date, and swap some text in a div for said date.",
   "homepage": "https://github.com/webcetera/wc_fs_date#readme",
   "license": "ISC",
