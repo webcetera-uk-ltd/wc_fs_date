@@ -1,7 +1,7 @@
 {
-  "name": "@finsweet/developer-starter",
-  "version": "0.0.0",
-  "description": "Developer starter template for Finsweet projects.",
+  "name": "@webcetera/wc-fs-date",
+  "version": "1.0.0",
+  "description": "Get todays date, and swap some text in a div for said date.",
   "homepage": "https://github.com/finsweet/developer-starter#readme",
   "license": "ISC",
   "keywords": [],
