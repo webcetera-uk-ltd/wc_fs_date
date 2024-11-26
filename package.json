@@ -1,20 +1,20 @@
 {
-  "name": "@webceterauk/wc-fs-date",
-  "version": "1.0.1",
+  "name": "@webceterauk/wc-date",
+  "version": "1.0.2",
   "description": "Get todays date, and swap some text in a div for said date.",
   "homepage": "https://github.com/webcetera/wc_fs_date#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://finsweet.com/"
+    "name": "Webcetera",
+    "url": "https://webcetera.co.uk/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webcetera/wc_fs_date.git"
+    "url": "git+https://github.com/webcetera-uk-ltd/wc_fs_date.git"
   },
   "bugs": {
-    "url": "https://https://github.com/webcetera/wc_fs_date/issues"
+    "url": "https://github.com/webcetera-uk-ltd/wc_fs_date/issues"
   },
   "publishConfig": {
     "access": "public"
